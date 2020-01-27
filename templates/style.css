@@ -1,0 +1,13 @@
+.row {
+  height:80%;
+  background-color:black;
+}
+
+.footer {
+  position:fixed;
+  bottom:0;
+}
+
+.row1 input.letter{
+  color:white;
+}
